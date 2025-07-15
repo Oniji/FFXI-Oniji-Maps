@@ -17,12 +17,12 @@ Example Maps:
 <img width="1024" height="1024" alt="ex_data m_178_02" src="https://github.com/user-attachments/assets/ba3405de-220e-4d68-af94-ea89ca4bdb8e" />
 
 Included Maps:
-| Maps | DAT File |
-|-----------------|-----------------|
-| Attohwa Chasm   | ROM\283\79.DAT    |
-| Yhoator Jungle    | ROM\282\126.DAT    |
-| Sacrarium Map 1    | ROM\283\112.DAT    |
-| Sacrarium Map 2    | ROM\283\113.DAT    |
-| Ru'Aun Gardens    | ROM\283\1.DAT    |
-| Ve'Lugannon Palace    | ROM\283\35.DAT -> ROM\283\43.DAT    |
-| The Shrine of Ru'Avitau    | ROM\283\44.DAT -> ROM\283\49.DAT    |
+| Maps | DAT File | Modifications |
+|-----------------|-----------------|-----------------|
+| Attohwa Chasm   | ROM\283\79.DAT    | Path to Boneyard Gully and Blockades |
+| Yhoator Jungle    | ROM\282\126.DAT    | Logging nodes (as per ASB) and regions |  
+| Sacrarium Map 1    | ROM\283\112.DAT    | Maze with Paths per Elemental Day |
+| Sacrarium Map 2    | ROM\283\113.DAT    | Locations of Balur NMs |
+| Ru'Aun Gardens    | ROM\283\1.DAT    | Labels for all major and minor Sky Gods and Elemental Islands |
+| Ve'Lugannon Palace    | ROM\283\35.DAT -> ROM\283\43.DAT    | Paths to get to each Sky NM |
+| The Shrine of Ru'Avitau    | ROM\283\44.DAT -> ROM\283\49.DAT    | Paths to get to each Sky NM |
