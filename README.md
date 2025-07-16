@@ -26,3 +26,6 @@ Included Maps:
 | Ru'Aun Gardens    | ROM\283\1.DAT    | Labels for all major and minor Sky Gods and Elemental Islands |
 | Ve'Lugannon Palace    | ROM\283\35.DAT -> ROM\283\43.DAT    | Paths to get to each Sky NM |
 | The Shrine of Ru'Avitau    | ROM\283\44.DAT -> ROM\283\49.DAT    | Paths to get to each Sky NM |
+
+TO DO:
+- Upscale and create new map art for Sky interior and Sacrarium maps
