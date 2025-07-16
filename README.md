@@ -1,16 +1,15 @@
 # FFXI-Oniji-Maps
-These maps are meant as a supplement to Remapster maps and are not meant as a replacement or substitutes. They are modifications of existing known maps, but with additional labelling. In most cases the maps included here were just so that I didn't have to resort to opening a wiki to get to where I wanted to go.
+These maps are meant as a supplement to Remapster maps and are not standalone replacements. In general, they are minor tweaks to existing maps, adding labels or pathing where relevant.
 
 Full Credit goes to original authors of these maps, including:
-Remapster (https://remapster.com/)
-FFXI Atlas (Nexus1203)
-Please support their work.
+- Remapster (https://remapster.com/)
+- FFXI Atlas (Nexus1203)
 
 Ashita Installation (Recommended):
 - Install the addon XIPivot (for easily handling DAT swapping) - https://github.com/HealsCodes/XIPivot
 - Download the ROM folder from this repository
-- Follow the instructions on the XIPivot repository to install my maps (https://github.com/HealsCodes/XIPivot/tree/master/XIPivot.Ashita/resources)
-- If you are using remapster and want these maps to appear in place of them, ensure that the folder for these map DATs appear higher than the remapster ones.
+- Follow the instructions on the XIPivot repository to install these DATs (https://github.com/HealsCodes/XIPivot/tree/master/XIPivot.Ashita/resources)
+- (Important!) If you are using Remapster and want only the maps in this pack to overwrite the Remapster ones, ensure that in the XIPivot config, the priority of the folder is higher than that of Remapster.
 
 Example Maps:
 
