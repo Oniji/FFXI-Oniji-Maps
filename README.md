@@ -13,7 +13,8 @@ Ashita Installation (Recommended):
 - If you are using remapster and want these maps to appear in place of them, ensure that the folder for these map DATs appear higher than the remapster ones.
 
 Example Maps:
-<img width="2048" height="2048" alt="ex_data m_130_00" src="https://github.com/user-attachments/assets/706bf25e-6216-4a5c-8272-4cd79c8d6217" />
+
+<img width="2048" height="2048" alt="ru'aun-gardens" src="https://github.com/user-attachments/assets/86b4ae37-71ab-4ee6-b269-0eaf7fcaa0da" />
 <img width="1024" height="1024" alt="ex_data m_178_02" src="https://github.com/user-attachments/assets/ba3405de-220e-4d68-af94-ea89ca4bdb8e" />
 
 Included Maps:
