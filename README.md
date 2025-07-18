@@ -15,6 +15,9 @@ Example Maps:
 
 <img width="2048" height="2048" alt="ru'aun-gardens" src="https://github.com/user-attachments/assets/86b4ae37-71ab-4ee6-b269-0eaf7fcaa0da" />
 <img width="1024" height="1024" alt="ex_data m_178_02" src="https://github.com/user-attachments/assets/ba3405de-220e-4d68-af94-ea89ca4bdb8e" />
+<img width="2048" height="2048" alt="yhoator-jungle" src="https://github.com/user-attachments/assets/2102daf6-21f2-4a31-8407-932572767823" />
+
+
 
 Included Maps:
 | Maps | DAT File | Modifications |
